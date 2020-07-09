@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://stackshare.io/AnanthaRajuC 
+https://stackoverflow.com/users/3711562
 <!--
 **AnanthaRajuC/AnanthaRajuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

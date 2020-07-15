@@ -2,6 +2,9 @@
 
 https://stackshare.io/AnanthaRajuC   
 https://stackoverflow.com/users/3711562
+
+[![Anantha's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc)](https://github.com/anantharajuc/github-readme-stats)
+
 <!--
 **AnanthaRajuC/AnanthaRajuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

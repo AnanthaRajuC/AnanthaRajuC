@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋  
+
+I'm Anantha, i have a masters degree in Software Engineering. I primarily work with Java, Spring Boot based Web Applications.
+
+*Currently I am open to explore new opportunities.*
 
 https://stackshare.io/AnanthaRajuC   
 https://stackoverflow.com/users/3711562

@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I'm Anantha, i have a masters degree in Software Engineering. I primarily work with Java, Spring Boot based Web Applications.
+I'm Anantha, i have a masters degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications.
 
 *Currently I am open to explore new opportunities.*
 

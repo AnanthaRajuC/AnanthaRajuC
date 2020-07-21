@@ -17,9 +17,10 @@ https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
 <h2>My Projects</h2>
 
 <p>
-<strong>
-<g-emoji class="g-emoji" alias="baby" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png">👶</g-emoji>Spring Boot Application Template
-</strong>
+  <strong>
+    <g-emoji class="g-emoji" alias="baby" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png">👶</g-emoji>
+    <a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template">Spring Boot Application Template</a>
+  </strong>
 </p>
 
 <p>

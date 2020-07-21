@@ -12,8 +12,6 @@ https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
 
 *Currently I am open to explore new opportunities.*
 
-https://stackshare.io/AnanthaRajuC   
-
 [![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&show_icons=true)](https://github.com/anantharajuc/github-readme-stats)
 
 <h2>My Projects</h2>

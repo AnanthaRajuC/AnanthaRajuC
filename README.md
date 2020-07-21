@@ -1,3 +1,5 @@
+<p><a target="_blank" rel="noopener noreferrer" ><img src="https://camo.githubusercontent.com/00b7ae13c82bf907556f1184eb865122a41ea7c3/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" height="160px" width="160px" style="max-width:100%;"></a></p>
+
 ### Hi there 👋  
 
 I'm Anantha, i hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications. I'm familiar with Amazon Web Services and Google Cloud Platform.

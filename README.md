@@ -40,9 +40,14 @@ https://stackshare.io/AnanthaRajuC
 <h2>Find Me Elsewhere</h2>
 <p>
   <a href="https://in.linkedin.com/in/anantharajuc" rel="nofollow">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" height="120px" width="120px" alt="Linkedin" style="max-width:100%;"></a>
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" height="120px" width="120px" alt="Linkedin" style="max-width:100%;">
+  </a>
   <a href="https://stackoverflow.com/users/3711562/anantha-raju-c" rel="nofollow">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" height="120px" width="120px" alt="Stackoverflow" style="max-width:100%;"></a>
+  <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" height="120px" width="120px" alt="Stackoverflow" style="max-width:100%;">
+  </a>
+  <a href="https://stackshare.io/AnanthaRajuC" rel="nofollow">
+  <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" height="120px" width="120px" alt="stackshare" style="max-width:100%;">
+  </a>
 </p>
 
 <!--

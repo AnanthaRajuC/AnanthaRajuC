@@ -1,4 +1,8 @@
-<p><a target="_blank" rel="noopener noreferrer" ><img src="https://camo.githubusercontent.com/00b7ae13c82bf907556f1184eb865122a41ea7c3/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" height="160px" width="160px" style="max-width:100%;"></a></p>
+<p>
+  <a target="_blank" rel="noopener noreferrer" >
+    <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" style="max-width:100%;">
+  </a>
+</p>
 
 ### Hi there 👋  
 
@@ -16,7 +20,8 @@ https://stackshare.io/AnanthaRajuC
 
 <p>
 <strong>
-<g-emoji class="g-emoji" alias="baby" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png">👶</g-emoji>Spring Boot Application Template</strong>
+<g-emoji class="g-emoji" alias="baby" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png">👶</g-emoji>Spring Boot Application Template
+</strong>
 </p>
 
 <p>
@@ -30,6 +35,7 @@ https://stackshare.io/AnanthaRajuC
 <img src="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template.svg?branch=master" style="max-width:100%;">
 </a> 
 </p>
+<p>A Spring Boot Web Application template bootstrapped with necessary dependencies enough to start with a simple web application.</p>
 
 <h2>Find Me Elsewhere</h2>
 <p>

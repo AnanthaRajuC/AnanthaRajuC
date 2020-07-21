@@ -14,8 +14,6 @@ https://stackshare.io/AnanthaRajuC
 
 <h2>Find Me Elsewhere</h2>
 <p>
-  <a href="https://twitter.com/anantharajuc" rel="nofollow">
-  <img src="https://www.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" style="max-width:100%;"></a>
   <a href="https://in.linkedin.com/in/anantharajuc" rel="nofollow">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Linkedin" style="max-width:100%;"></a>
   <a href="https://stackoverflow.com/users/3711562/anantha-raju-c" rel="nofollow">

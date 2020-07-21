@@ -20,6 +20,9 @@ https://stackoverflow.com/users/3711562
   <a href="https://in.linkedin.com/in/anantharajuc" rel="nofollow">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Linkedin" style="max-width:100%;"></a>
 </p>
+  <a href="https://stackoverflow.com/users/3711562/anantha-raju-c" rel="nofollow">
+  <img src="https://cdn1.iconfinder.com/data/icons/D_Social_Icon_Set/128/stackoverflowpx.png" height="120px" width="120px" alt="Stackoverflow" style="max-width:100%;"></a>
+</p>
 
 <!--
 **AnanthaRajuC/AnanthaRajuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

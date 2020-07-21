@@ -21,14 +21,14 @@ I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primaril
     </br>
     </br>
     <p>
-  <a href="https://in.linkedin.com/in/anantharajuc" rel="nofollow">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" height="25px" width="25px" alt="Linkedin" style="max-width:100%;">
-  </a>
   <a href="https://stackoverflow.com/users/3711562/anantha-raju-c" rel="nofollow">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" height="25px" width="25px" alt="Stackoverflow" style="max-width:100%;">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" height="25px" width="25px" alt="Stackoverflow" style="max-width:100%;">
+  </a>
+  <a href="https://in.linkedin.com/in/anantharajuc" rel="nofollow">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" height="25px" width="25px" alt="Linkedin" style="max-width:100%;">
   </a>
   <a href="https://stackshare.io/AnanthaRajuC" rel="nofollow">
-  <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" height="25px" width="25px" alt="stackshare" style="max-width:100%;">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" height="25px" width="25px" alt="stackshare" style="max-width:100%;">
   </a>
 </p>
     </td>

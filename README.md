@@ -1,16 +1,26 @@
-<p>
-  <a target="_blank" rel="noopener noreferrer" >
-    <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" style="max-width:100%;">
-  </a>
-</p>
-
-### Hi there 👋  
-
-I'm Anantha, i hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications. I'm familiar with Amazon Web Services and Google Cloud Platform.
-
-https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
-
-*Currently I am open to explore new opportunities.*
+<table border="0">
+  <tr>
+    <td width="20%">
+      <p>
+        <a target="_blank" rel="noopener noreferrer" >
+          <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" style="max-width:100%;">
+        </a>
+      </p>
+    </td>
+    <td>
+        Hi there 👋
+  </br>
+  </br>
+I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications. I'm familiar with Amazon Web Services and  Google Cloud Platform.
+    </br>
+    </br>
+    https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
+    </br>
+    </br>
+    <em>Currently I am open to explore new opportunities.</em>
+    </td>
+  </tr>
+</table>
 
 [![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&show_icons=true)](https://github.com/anantharajuc/github-readme-stats)
 

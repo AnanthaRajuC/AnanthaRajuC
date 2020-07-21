@@ -24,10 +24,10 @@ https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
 </p>
 
 <p>
-<a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template" rel="nofollow">
+<a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/network/members" rel="nofollow">
 <img src="https://img.shields.io/github/forks/Spring-Boot-Framework/Spring-Boot-Application-Template" style="max-width:100%;">
 </a> 
-<a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template" rel="nofollow">
+<a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/stargazers" rel="nofollow">
 <img src="https://img.shields.io/github/stars/Spring-Boot-Framework/Spring-Boot-Application-Template" style="max-width:100%;">
 </a> 
 <a href="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template" rel="nofollow">

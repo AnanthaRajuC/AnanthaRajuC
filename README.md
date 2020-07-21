@@ -11,6 +11,12 @@ https://stackoverflow.com/users/3711562
 
 [![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&show_icons=true)](https://github.com/anantharajuc/github-readme-stats)
 
+<h2>Find Me Elsewhere</h2>
+<p><a href="https://twitter.com/anantharajuc" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/48dd0cf377d4edfb444ae2f0fccbc9ecae28d56a/68747470733a2f2f63646e322e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d6d656469612d323139392f36342f736f6369616c5f6d656469615f69736f6d65747269635f362d747769747465722d3531322e706e67" height="120px" width="120px" alt="Twitter" data-canonical-src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" style="max-width:100%;">
+  </a><a href="https://in.linkedin.com/in/anantharajuc" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/d268e5b7446240291ec3cf824c858f2b556377a7/68747470733a2f2f63646e322e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d6d656469612d323139392f36342f736f6369616c5f6d656469615f69736f6d65747269635f31342d6c696e6b6564696e2d3531322e706e67" height="120px" width="120px" alt="Twitter" data-canonical-src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" style="max-width:100%;"></a></p>
+
 <!--
 **AnanthaRajuC/AnanthaRajuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

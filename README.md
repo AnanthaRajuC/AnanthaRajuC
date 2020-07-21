@@ -14,6 +14,18 @@ https://stackshare.io/AnanthaRajuC
 
 <h2>My Projects</h2>
 
+<p>
+<strong>
+<g-emoji class="g-emoji" alias="baby" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png">👶</g-emoji> Spring-Boot-Application-Template</strong>
+</p>
+
+<p>
+<a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template" rel="nofollow">
+<img src="https://img.shields.io/github/forks/Spring-Boot-Framework/Spring-Boot-Application-Template" style="max-width:100%;">
+</a> 
+</p>
+<p>A Spring Boot Web Application template bootstrapped with necessary dependencies enough to start with a simple web application.</p>
+
 <h2>Find Me Elsewhere</h2>
 <p>
   <a href="https://in.linkedin.com/in/anantharajuc" rel="nofollow">

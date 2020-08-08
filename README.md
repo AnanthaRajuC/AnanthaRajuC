@@ -50,15 +50,21 @@ I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primaril
 </p>
 
 <p>
-<a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/network/members" rel="nofollow">
-<img src="https://img.shields.io/github/forks/Spring-Boot-Framework/Spring-Boot-Application-Template" style="max-width:100%;">
-</a> 
-<a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/stargazers" rel="nofollow">
-<img src="https://img.shields.io/github/stars/Spring-Boot-Framework/Spring-Boot-Application-Template" style="max-width:100%;">
-</a> 
-<a href="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template" rel="nofollow">
-<img src="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template.svg?branch=master" style="max-width:100%;">
-</a> 
+  <a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/network/members" rel="nofollow">
+    <img src="https://img.shields.io/github/forks/Spring-Boot-Framework/Spring-Boot-Application-Template" style="max-width:100%;">
+  </a> 
+  <a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/stargazers" rel="nofollow">
+    <img src="https://img.shields.io/github/stars/Spring-Boot-Framework/Spring-Boot-Application-Template" style="max-width:100%;">
+  </a> 
+  <a href="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template" rel="nofollow">
+    <img src="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template.svg?branch=master" style="max-width:100%;">
+  </a> 
+  <a href="https://sonarcloud.io/dashboard?id=Spring-Boot-Framework_Spring-Boot-Application-Template" rel="nofollow">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=Spring-Boot-Framework_Spring-Boot-Application-Template&metric=alert_status" style="max-width:100%;">
+  </a> 
+   <a href="https://app.getpostman.com/run-collection/90dd899ee438f2b960dc" rel="nofollow">
+    <img src="https://run.pstmn.io/button.svg" style="max-width:100%;">
+  </a> 
 </p>
 <p>A Spring Boot Web Application template bootstrapped with necessary dependencies enough to start with a simple web application.</p>
 

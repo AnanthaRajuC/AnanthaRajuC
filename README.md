@@ -38,7 +38,7 @@ I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primaril
   </tr>
 </table>
 
-[![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&show_icons=true)](https://github.com/anantharajuc/github-readme-stats)
+[![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
 
 <h2>My Projects</h2>
 

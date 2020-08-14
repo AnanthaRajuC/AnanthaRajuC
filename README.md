@@ -1,9 +1,21 @@
+## Hi there 👋
 
-       Hi there 👋
+<a href="https://www.goodreads.com/user/show/49589939-anantha-raju">
+  <img alt="Anantha's goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg">
+</a> 
+<a href="https://stackoverflow.com/users/3711562/anantha-raju-c">
+  <img alt="Anantha's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="https://stackshare.io/AnanthaRajuC">
+  <img alt="Anantha's stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg">
+</a> 
+<a href="https://instagram.com/anantharajuc/">
+  <img alt="Anantha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 </br>
-</br> 
 
-I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications. I'm familiar with Amazon Web Services and  Google Cloud Platform.
+I'm [Anantha](https://anantharajuc.github.io/), i hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications. I'm familiar with Amazon Web Services and  Google Cloud Platform.
     </br>
     </br>
     https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
@@ -18,21 +30,6 @@ I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primaril
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-  **Social:**  
-
-<a href="https://www.goodreads.com/user/show/49589939-anantha-raju">
-  <img alt="Anantha's goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg">
-</a> 
-<a href="https://stackoverflow.com/users/3711562/anantha-raju-c">
-  <img alt="Anantha's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-<a href="https://stackshare.io/AnanthaRajuC">
-  <img alt="Anantha's stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg">
-</a> 
-<a href="https://instagram.com/anantharajuc/">
-  <img alt="Anantha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 </br>
 </br>

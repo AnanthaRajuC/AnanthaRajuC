@@ -1,13 +1,4 @@
-<table border="0">
-  <tr>
-    <td width="20%">
-      <p>
-        <a target="_blank" rel="noopener noreferrer" >
-          <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px" style="max-width:100%;">
-        </a>
-      </p>
-    </td>
-    <td>
+
        Hi there 👋
 </br>
 </br> 
@@ -32,13 +23,13 @@ I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primaril
 
 <a href="https://www.goodreads.com/user/show/49589939-anantha-raju">
   <img alt="Anantha's goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg">
-</a>
+</a> 
 <a href="https://stackoverflow.com/users/3711562/anantha-raju-c">
   <img alt="Anantha's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a> &nbsp;
+</a>
 <a href="https://stackshare.io/AnanthaRajuC">
   <img alt="Anantha's stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg">
-</a> &nbsp;
+</a> 
 <a href="https://instagram.com/anantharajuc/">
   <img alt="Anantha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -51,9 +42,6 @@ I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primaril
   [![Blog](https://img.shields.io/badge/Blog-anantharajuc.github.io/blog/-brightgreen)](https://anantharajuc.github.io/blog/)
   
 </p>
-    </td>
-  </tr>
-</table>
 
 ![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
 

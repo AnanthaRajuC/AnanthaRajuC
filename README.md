@@ -22,6 +22,14 @@ I'm Anantha. I hold a Masters Degree in Computer Science Engineering. I primaril
     </br>
     <p>
   
+  **Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+  **Social:**  
+
 <a href="https://www.goodreads.com/user/show/49589939-anantha-raju">
   <img alt="Anantha's goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg">
 </a>

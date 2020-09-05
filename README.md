@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anantha</h1>
 
 <h3 align="left">I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications.</h3> 
-<h3 align="left">I'm familiar with Amazon Web Services and Google Cloud Platform.</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
+
+- 📝 I regulary write articles on [https://anantharajuc.github.io/blog/](https://anantharajuc.github.io/blog/)
+
+- 💬 Ask me about **Java, Spring Boot, Web Applications**
+
+- 📫 How to reach me **anantha120@gmail.com**
 
 https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
 

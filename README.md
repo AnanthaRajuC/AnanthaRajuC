@@ -1,30 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anantha</h1>
 
-<a href="https://www.goodreads.com/user/show/49589939-anantha-raju">
-  <img alt="Anantha's goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg">
-</a> 
-<a href="https://stackoverflow.com/users/3711562/anantha-raju-c">
-  <img alt="Anantha's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-<a href="https://stackshare.io/AnanthaRajuC">
-  <img alt="Anantha's stackshare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackshare.svg">
-</a> 
-<a href="https://instagram.com/anantharajuc/">
-  <img alt="Anantha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<h3 align="center">I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications. I'm familiar with Amazon Web Services and Google Cloud Platform.</h3>
 
-</br>
-
-I'm [Anantha](https://anantharajuc.github.io/), i hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications. I'm familiar with Amazon Web Services and  Google Cloud Platform.
-    </br>
-    </br>
-    https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
-    </br>
-    </br>
-    <em>Currently I am open to explore new opportunities.</em>
-    </br>
-    <p>
-  
   **Languages and Tools:**  
 
 <p align="left">

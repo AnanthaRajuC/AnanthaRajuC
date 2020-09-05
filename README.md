@@ -18,13 +18,17 @@ https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p><p align="center">
 </p>
-</br>
-</br>
+
+  **Social:**  
   
   [![Linkedin follow @anantharajuc](https://img.shields.io/badge/-anantharajuc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/anantharajuc)](https://in.linkedin.com/in/anantharajuc) &nbsp;
   [![Twitter follow @anantharajuc](https://img.shields.io/twitter/follow/anantharajuc?style=social)](https://twitter.com/anantharajuc) &nbsp;
   [![Blog](https://img.shields.io/badge/Blog-anantharajuc.github.io/blog/-brightgreen)](https://anantharajuc.github.io/blog/)
   
+<p align="center">
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/3711562/anantha-raju-c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3711562/anantha-raju-c" height="30" width="30" /></a>
+<a href="https://instagram.com/anantharajuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anantharajuc" height="30" width="30" /></a>
+<a href="https://medium.com/@arcswdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arcswdev" height="30" width="30" /></a>
 </p>
 
 ![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)

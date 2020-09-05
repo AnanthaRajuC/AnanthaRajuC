@@ -26,6 +26,7 @@ https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
   [![Blog](https://img.shields.io/badge/Blog-anantharajuc.github.io/blog/-brightgreen)](https://anantharajuc.github.io/blog/)
   
 <p align="center">
+ <a href="https://dev.to/anantharajuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anantharajuc" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/3711562/anantha-raju-c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3711562/anantha-raju-c" height="30" width="30" /></a>
 <a href="https://instagram.com/anantharajuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anantharajuc" height="30" width="30" /></a>
 <a href="https://medium.com/@arcswdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arcswdev" height="30" width="30" /></a>

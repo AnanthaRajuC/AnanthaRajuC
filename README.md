@@ -23,7 +23,6 @@ https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f
   
   [![Linkedin follow @anantharajuc](https://img.shields.io/badge/-anantharajuc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/anantharajuc)](https://in.linkedin.com/in/anantharajuc) &nbsp;
   [![Twitter follow @anantharajuc](https://img.shields.io/twitter/follow/anantharajuc?style=social)](https://twitter.com/anantharajuc) &nbsp;
-  [![Blog](https://img.shields.io/badge/Blog-anantharajuc.github.io/blog/-brightgreen)](https://anantharajuc.github.io/blog/)
   
 <p align="center">
  <a href="https://dev.to/anantharajuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anantharajuc" height="30" width="30" /></a>

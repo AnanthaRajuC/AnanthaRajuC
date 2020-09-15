@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **anantha120@gmail.com**
 
+<a href="https://stackoverflow.com/users/3711562/anantha-raju-c"><img src="https://stackoverflow.com/users/flair/3711562.png" width="208" height="58" alt="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 **CERTIFICATIONS**
 
 * [Google Cloud Platform and Amazon Web Services (Qwiklabs)](https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f)

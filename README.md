@@ -19,7 +19,7 @@
 * [IBM Marketing Cloud (IBM)](https://www.youracclaim.com/users/anantha-raju-c/badges)
 * [Adobe Professional – Adobe Experience Manager Sites Business Practitioner (Adobe)](https://www.youracclaim.com/badges/576ecfb6-3061-43d0-b56a-eae866413aac)
 
-  **Languages and Tools:**  
+**Languages and Tools:**  
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 

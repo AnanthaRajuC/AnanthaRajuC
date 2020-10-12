@@ -47,7 +47,15 @@
 
 ![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
 
-<h2>My Projects</h2>
+### 📕 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Git](https://anantharajuc.github.io/Git/)
+- [Beefing-Up Windows Command Prompt with cURL and JQ](https://anantharajuc.github.io/Beefing-Up-Windows-Command-Prompt-with-cURL-and-jq/)
+- [Useful Softwares, Services, Tools, Plugins list](https://anantharajuc.github.io/List-Softwares-Services-Tools-Plugins/)
+<!-- BLOG-POST-LIST:END -->
+
+### My Projects
 
 <p>
   <strong>

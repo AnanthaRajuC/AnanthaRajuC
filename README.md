@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
 
-- 📝 I regulary write articles on [https://anantharajuc.github.io/blog/](https://anantharajuc.github.io/blog/)
+- 📝 I write articles on [https://anantharajuc.github.io/blog/](https://anantharajuc.github.io/blog/)
 
 - 💬 Ask me about **Java, Spring Boot, Web Applications**
 

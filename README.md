@@ -39,14 +39,6 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p><p align="center">
 </p>
 
-  **Social:**  
-  
-<p align="center">
- <a href="https://dev.to/anantharajuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anantharajuc" height="30" width="30" /></a>
-<a href="https://instagram.com/anantharajuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anantharajuc" height="30" width="30" /></a>
-<a href="https://medium.com/@arcswdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arcswdev" height="30" width="30" /></a>
-</p>
-
 ![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
 
 <p align="left">

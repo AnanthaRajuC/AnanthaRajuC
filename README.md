@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anantha</h1>
 
+  [![Linkedin follow @anantharajuc](https://img.shields.io/badge/-anantharajuc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/anantharajuc)](https://in.linkedin.com/in/anantharajuc) &nbsp;
+  [![Twitter follow @anantharajuc](https://img.shields.io/twitter/follow/anantharajuc?style=social)](https://twitter.com/anantharajuc) &nbsp;
+
 <h3 align="left">I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications.</h3> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
@@ -34,9 +37,6 @@
 </p>
 
   **Social:**  
-  
-  [![Linkedin follow @anantharajuc](https://img.shields.io/badge/-anantharajuc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/anantharajuc)](https://in.linkedin.com/in/anantharajuc) &nbsp;
-  [![Twitter follow @anantharajuc](https://img.shields.io/twitter/follow/anantharajuc?style=social)](https://twitter.com/anantharajuc) &nbsp;
   
 <p align="center">
  <a href="https://dev.to/anantharajuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anantharajuc" height="30" width="30" /></a>

@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anantha</h1>
 
-  [![Linkedin follow @anantharajuc](https://img.shields.io/badge/-anantharajuc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/anantharajuc)](https://in.linkedin.com/in/anantharajuc) &nbsp;
-  [![Twitter follow @anantharajuc](https://img.shields.io/twitter/follow/anantharajuc?style=social)](https://twitter.com/anantharajuc) &nbsp;
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anantharajuc)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anantharajuc)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anantharajuc)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arcswdev)
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anantharajuc)
 
 <h3 align="left">I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications.</h3> 
 

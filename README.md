@@ -46,6 +46,10 @@
 
 ![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
 
+<p align="left">
+  <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=anantharajuc">
+<p/>
+
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->

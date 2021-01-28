@@ -82,8 +82,12 @@
     <img src="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template.svg?branch=master" style="max-width:100%;">
   </a> 
  </a>
-	<a alt="GitHub last commit">
+     <a alt="GitHub last commit">
      <img src="https://img.shields.io/github/last-commit/anantharajuc/Spring-Boot-Application-Template" />
+ </a>
+ </a>
+     <a alt="Average time to resolve an issue">
+     <img src="http://isitmaintained.com/badge/resolution/Spring-Boot-Framework/Spring-Boot-Application-Template.svg" />
  </a>
   <a href="https://sonarcloud.io/dashboard?id=Spring-Boot-Framework_Spring-Boot-Application-Template" rel="nofollow">
     <img src="https://sonarcloud.io/api/project_badges/measure?project=Spring-Boot-Framework_Spring-Boot-Application-Template&metric=alert_status" style="max-width:100%;">

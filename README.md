@@ -66,8 +66,7 @@
 
 <p>
   <strong>
-    <g-emoji class="g-emoji" alias="baby" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png">👶</g-emoji>
-    <a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template">Spring Boot Application Template</a>
+    <a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template">🍃 Spring Boot Application Template</a>
   </strong>
 </p>
 

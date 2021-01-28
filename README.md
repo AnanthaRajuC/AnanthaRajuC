@@ -111,8 +111,12 @@
     <img src="https://img.shields.io/github/stars/AnanthaRajuC/Bookmarc" style="max-width:100%;">
   </a> 
  </a>
-	<a alt="GitHub last commit">
+     <a alt="GitHub last commit">
      <img src="https://img.shields.io/github/last-commit/AnanthaRajuC/Bookmarc" />
+ </a>
+ </a>
+     <a alt="Average time to resolve an issue">
+     <img src="http://isitmaintained.com/badge/resolution/AnanthaRajuC/Bookmarc.svg" />
  </a>
 </p>
 <p>Portable Web Browsers' Bookmark's Manager.</p>

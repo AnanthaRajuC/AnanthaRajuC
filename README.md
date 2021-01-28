@@ -100,8 +100,7 @@
 
 <p>
   <strong>
-    <g-emoji class="g-emoji" alias="baby" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f476.png">👶</g-emoji>
-    <a href="https://github.com/AnanthaRajuC/Bookmarc">Bookmarc</a>
+    <a href="https://github.com/AnanthaRajuC/Bookmarc">🔖 Bookmarc</a>
   </strong>
 </p>
 

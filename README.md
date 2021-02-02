@@ -48,6 +48,10 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />	
 </p>
 
+<p align="left">
+  <a>Git</a>
+</p>
+
 ![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
 
 <p align="left">

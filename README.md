@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-  <a>Git</a>
+  <a>Git, Maven, Docker, Spring Boot, RESTful API</a>
 </p>
 
 ![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)

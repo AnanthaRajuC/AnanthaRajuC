@@ -63,7 +63,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Git](https://anantharajuc.github.io/Git/)
 - [Amping-Up Windows Command Prompt with cURL and JQ](https://anantharajuc.github.io/Beefing-Up-Windows-Command-Prompt-with-cURL-and-jq/)
-- [Useful Softwares, Services, Tools, Plugins list](https://anantharajuc.github.io/List-Softwares-Services-Tools-Plugins/)
 - [Bookshelf](https://anantharajuc.github.io/Bookshelf/)
 <!-- BLOG-POST-LIST:END -->
 

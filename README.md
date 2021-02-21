@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anantha</h1>
+### Hi there, i'm Anantha! 👋
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anantharajuc)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anantharajuc)
@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arcswdev)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anantharajuc)
 
-<h3 align="left">I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications.</h3> 
+**I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
 

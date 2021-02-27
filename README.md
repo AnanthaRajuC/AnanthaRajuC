@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **anantha120@gmail.com**
 
+- ⚡ Fun fact: I love 🎵, 🎸, 📚, and ☕️.
+
 <a href="https://stackoverflow.com/users/3711562/anantha-raju-c"><img src="https://stackoverflow.com/users/flair/3711562.png" width="208" height="58" alt="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 **CERTIFICATIONS**
@@ -137,5 +139,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

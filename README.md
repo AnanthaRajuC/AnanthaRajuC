@@ -12,7 +12,7 @@
 
 - 📝 I write articles on [https://anantharajuc.github.io/blog/](https://anantharajuc.github.io/blog/)
 
-- 💬 Ask me about **Java, Spring Boot, Web Applications, RESTful APIs, Database**
+- 💬 Ask me about **Java, Spring Boot, OOP, Web Applications, RESTful APIs, Database**
 
 - 📫 How to reach me **anantha120@gmail.com**
 

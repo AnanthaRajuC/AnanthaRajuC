@@ -60,6 +60,10 @@
   <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=anantharajuc">
 <p/>
 
+<p align="left">
+  <img width="" height="" src="https://github-profile-trophy.vercel.app/?username=anantharajuc&theme=flat&no-frame=true&margin-w=30&no-bg=true">
+<p/>
+
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->

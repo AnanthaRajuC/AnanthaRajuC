@@ -88,7 +88,7 @@
     <img src="https://img.shields.io/github/stars/Spring-Boot-Framework/Spring-Boot-Application-Template" style="max-width:100%;">
   </a> 
   <a href="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template" rel="nofollow">
-    <img src="https://travis-ci.org/Spring-Boot-Framework/Spring-Boot-Application-Template.svg?branch=master" style="max-width:100%;">
+    <img src="https://travis-ci.org/AnanthaRajuC/Spring-Boot-Application-Template.svg?branch=master" style="max-width:100%;">
   </a> 
  </a>
      <a alt="GitHub last commit">

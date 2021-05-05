@@ -70,16 +70,6 @@ Visvesvaraya Technological University (VTU)
   <a>Git, Maven, Docker, Spring Boot, RESTful API</a>
 </p>
 
-![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
-
-<p align="left">
-  <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=anantharajuc">
-<p/>
-
-<p align="left">
-  <img width="" height="" src="https://github-profile-trophy.vercel.app/?username=anantharajuc&theme=flat&no-frame=true&margin-w=30&no-bg=true">
-<p/>
-
 ### My Projects
 
 <p>
@@ -146,6 +136,16 @@ Visvesvaraya Technological University (VTU)
 - [Amping-Up Windows Command Prompt with cURL and JQ](https://anantharajuc.github.io/Beefing-Up-Windows-Command-Prompt-with-cURL-and-jq/)
 - [Bookshelf](https://anantharajuc.github.io/Bookshelf/)
 <!-- BLOG-POST-LIST:END -->
+
+![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
+
+<p align="left">
+  <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=anantharajuc">
+<p/>
+
+<p align="left">
+  <img width="" height="" src="https://github-profile-trophy.vercel.app/?username=anantharajuc&theme=flat&no-frame=true&margin-w=30&no-bg=true">
+<p/>
 
 <!--
 **AnanthaRajuC/AnanthaRajuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

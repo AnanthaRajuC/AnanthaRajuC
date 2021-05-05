@@ -80,14 +80,6 @@ Visvesvaraya Technological University (VTU)
   <img width="" height="" src="https://github-profile-trophy.vercel.app/?username=anantharajuc&theme=flat&no-frame=true&margin-w=30&no-bg=true">
 <p/>
 
-### 📕 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Git](https://anantharajuc.github.io/Git/)
-- [Amping-Up Windows Command Prompt with cURL and JQ](https://anantharajuc.github.io/Beefing-Up-Windows-Command-Prompt-with-cURL-and-jq/)
-- [Bookshelf](https://anantharajuc.github.io/Bookshelf/)
-<!-- BLOG-POST-LIST:END -->
-
 ### My Projects
 
 <p>
@@ -146,6 +138,14 @@ Visvesvaraya Technological University (VTU)
  </a>
 </p>
 <p>Portable Web Browsers' Bookmark's Manager.</p>
+
+### 📕 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Git](https://anantharajuc.github.io/Git/)
+- [Amping-Up Windows Command Prompt with cURL and JQ](https://anantharajuc.github.io/Beefing-Up-Windows-Command-Prompt-with-cURL-and-jq/)
+- [Bookshelf](https://anantharajuc.github.io/Bookshelf/)
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **AnanthaRajuC/AnanthaRajuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

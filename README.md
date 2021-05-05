@@ -1,4 +1,4 @@
-### Hi there, i'm Anantha! 👋
+### Hey! 👋
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anantharajuc)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anantharajuc)
@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arcswdev)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anantharajuc)
 
-**I hold a Masters Degree in Computer Science Engineering. I primarily work with Java, Spring Boot based Web Applications.**
+My name is Anantha, and I'm a **Software Engineer** with 6 years of experience. I primarily work with Java, Spring Boot based Web Applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
 
@@ -18,9 +18,25 @@
 
 - ⚡ Fun fact: I love 🎵, 🎸, 📚, and ☕️.
 
+### This is where I've worked during the last 10 years
+
+**SOFTWARE ENGINEER**
+
+_[Customer Centria](https://www.customercentria.com/). Oct 2015 - Present_
+
+### My education
+
+**MASTERS OF TECHNOLOGY (M. Tech), COMPUTER SCIENCE ENGINEERING**
+
+Visvesvaraya Technological University (VTU)
+
+**BACHELOR OF ENGINEERING (BE), COMPUTER SCIENCE ENGINEERING**
+
+Visvesvaraya Technological University (VTU)
+
 <a href="https://stackoverflow.com/users/3711562/anantha-raju-c"><img src="https://stackoverflow.com/users/flair/3711562.png" width="208" height="58" alt="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-**CERTIFICATIONS**
+**OTHER CERTIFICATIONS**
 
 * [Google Cloud Platform and Amazon Web Services (Qwiklabs)](https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f)
 * [Principles of Reactive Architecture (Lightbend)](https://www.youracclaim.com/badges/142c45b1-ab3b-42a3-b13d-05c37c44b9a1g)

@@ -34,14 +34,14 @@ Visvesvaraya Technological University (VTU)
 
 Visvesvaraya Technological University (VTU)
 
-<a href="https://stackoverflow.com/users/3711562/anantha-raju-c"><img src="https://stackoverflow.com/users/flair/3711562.png" width="208" height="58" alt="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 **OTHER CERTIFICATIONS**
 
 * [Google Cloud Platform and Amazon Web Services (Qwiklabs)](https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f)
 * [Principles of Reactive Architecture (Lightbend)](https://www.youracclaim.com/badges/142c45b1-ab3b-42a3-b13d-05c37c44b9a1g)
 * [IBM Marketing Cloud (IBM)](https://www.youracclaim.com/users/anantha-raju-c/badges)
 * [Adobe Professional – Adobe Experience Manager Sites Business Practitioner (Adobe)](https://www.youracclaim.com/badges/576ecfb6-3061-43d0-b56a-eae866413aac)
+
+<a href="https://stackoverflow.com/users/3711562/anantha-raju-c"><img src="https://stackoverflow.com/users/flair/3711562.png" width="208" height="58" alt="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 **Languages and Tools:**  
 

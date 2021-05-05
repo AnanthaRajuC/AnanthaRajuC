@@ -18,7 +18,7 @@ My name is Anantha, and I'm a **Software Engineer** with 6 years of experience. 
 
 - ⚡ Fun fact: I love 🎵, 🎸, 📚, and ☕️.
 
-### This is where I've worked during the last 10 years
+### This is where I've worked during the last 6 years
 
 **SOFTWARE ENGINEER**
 

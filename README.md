@@ -10,7 +10,7 @@ My name is Anantha, and I'm a **Software Engineer** with 6 years of experience i
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
 
-- 📝 I write articles on [https://anantharajuc.github.io/blog/](https://anantharajuc.github.io/blog/)
+- 📝 I write articles on [https://anantharajuc.github.io](https://anantharajuc.github.io)
 
 - 💬 Ask me about **Java, Spring Boot, OOP, Web Applications, RESTful APIs, Database, Cloud**
 

@@ -32,13 +32,9 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Present_
 
 **EDUCATION**
 
-**MASTERS OF TECHNOLOGY (M. Tech), COMPUTER SCIENCE ENGINEERING**
+* **MASTERS OF TECHNOLOGY (M. Tech), COMPUTER SCIENCE ENGINEERING** - *Visvesvaraya Technological University (VTU)*
 
-Visvesvaraya Technological University (VTU)
-
-**BACHELOR OF ENGINEERING (BE), COMPUTER SCIENCE ENGINEERING**
-
-Visvesvaraya Technological University (VTU)
+* **BACHELOR OF ENGINEERING (BE), COMPUTER SCIENCE ENGINEERING** - *Visvesvaraya Technological University (VTU)*
 
 ---
 

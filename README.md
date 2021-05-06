@@ -20,7 +20,7 @@ My name is Anantha, and I'm a **Software Engineer** with 6 years of experience i
 
 ---
 
-### This is where I've worked during the last 6 years
+**WORK**
 
 **SOFTWARE ENGINEER**
 
@@ -30,7 +30,7 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Present_
 
 ---
 
-### My education
+**EDUCATION**
 
 **MASTERS OF TECHNOLOGY (M. Tech), COMPUTER SCIENCE ENGINEERING**
 

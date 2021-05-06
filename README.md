@@ -26,7 +26,7 @@ My name is Anantha, and I'm a **Software Engineer** with 6 years of experience i
 
 _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Present_
 
-* Responsible for integrating *Customer Centria's* flagship Marketing Campaign Product Suite **CC Engage** with several other products like [Twilio](https://www.twilio.com/), [acoustic](https://www.acoustic.com/) (formerly IBM Watson Marketing), [Alot Solutions](https://alotsolutions.com/), [Ozonetel](https://ozonetel.com/) via RESTful API's
+* Responsible for integrating *Customer Centria's* flagship Marketing Campaign Product Suite **[CC Engage](https://www.customercentria.com/cctarget.html)** with several other products like [Twilio](https://www.twilio.com/), [acoustic](https://www.acoustic.com/) (formerly IBM Watson Marketing), [Alot Solutions](https://alotsolutions.com/), [Ozonetel](https://ozonetel.com/) via RESTful API's for customer engagement.
 
 ---
 

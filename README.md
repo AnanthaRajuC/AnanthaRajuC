@@ -18,6 +18,8 @@ My name is Anantha, and I'm a **Software Engineer** with 6 years of experience i
 
 - ⚡ Fun fact: I love 🎵, 🎸, 📚, and ☕️.
 
+---
+
 ### This is where I've worked during the last 6 years
 
 **SOFTWARE ENGINEER**
@@ -25,6 +27,8 @@ My name is Anantha, and I'm a **Software Engineer** with 6 years of experience i
 _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Present_
 
 * Responsible for integrating *Customer Centria's* flagship Marketing Campaign Product Suite **CC Engage** with several other products like [Twilio](https://www.twilio.com/), [acoustic](https://www.acoustic.com/) (formerly IBM Watson Marketing), [Alot Solutions](https://alotsolutions.com/), [Ozonetel](https://ozonetel.com/) via RESTful API's
+
+---
 
 ### My education
 
@@ -36,6 +40,8 @@ Visvesvaraya Technological University (VTU)
 
 Visvesvaraya Technological University (VTU)
 
+---
+
 **OTHER CERTIFICATIONS**
 
 * [Google Cloud Platform and Amazon Web Services (Qwiklabs)](https://google.qwiklabs.com/public_profiles/f39c6d6d-a4e3-4160-abe4-a625b1be976f)
@@ -44,6 +50,8 @@ Visvesvaraya Technological University (VTU)
 * [Adobe Professional – Adobe Experience Manager Sites Business Practitioner (Adobe)](https://www.youracclaim.com/badges/576ecfb6-3061-43d0-b56a-eae866413aac)
 
 <a href="https://stackoverflow.com/users/3711562/anantha-raju-c"><img src="https://stackoverflow.com/users/flair/3711562.png" width="208" height="58" alt="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anantha Raju C at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+---
 
 **Languages and Tools:**  
 
@@ -71,6 +79,8 @@ Visvesvaraya Technological University (VTU)
 <p align="left">
   <a>Git, Maven, Docker, Spring Boot, RESTful API</a>
 </p>
+
+---
 
 ### My Projects
 
@@ -131,6 +141,8 @@ Visvesvaraya Technological University (VTU)
 </p>
 <p>Portable Web Browsers' Bookmark's Manager.</p>
 
+---
+
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -138,6 +150,8 @@ Visvesvaraya Technological University (VTU)
 - [Amping-Up Windows Command Prompt with cURL and JQ](https://anantharajuc.github.io/Beefing-Up-Windows-Command-Prompt-with-cURL-and-jq/)
 - [Bookshelf](https://anantharajuc.github.io/Bookshelf/)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 ![Anantha Raju C's github stats](https://github-readme-stats.vercel.app/api?username=anantharajuc&theme=vue&show_icons=true&include_all_commits=true&count_private=true)
 

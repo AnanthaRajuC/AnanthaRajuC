@@ -141,8 +141,8 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Present_
 
 <!-- BLOG-POST-LIST:START -->
 - [Git](https://anantharajuc.github.io/Git/)
-- [Amping-Up Windows Command Prompt with cURL and JQ](https://anantharajuc.github.io/Beefing-Up-Windows-Command-Prompt-with-cURL-and-jq/)
-- [Bookshelf](https://anantharajuc.github.io/Bookshelf/)
+- [Amping-Up Windows Command Prompt with cURL and JQ](https://anantharajuc.github.io/Amping-Up-Windows-Command-Prompt-with-cURL-and-jq/)
+- [Bookshelf](https://anantharajuc.github.io/bookshelf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

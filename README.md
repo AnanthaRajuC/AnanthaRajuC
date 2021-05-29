@@ -14,7 +14,7 @@ My name is Anantha, i hold a Masters Degree in Computer Science Engineering. Cur
 
 - 💬 Ask me about **Java, Spring Boot, OOP, Web Applications, RESTful APIs, Database, Cloud**
 
-- 📫 How to reach me **anantha120@gmail.com**
+- 📫 How to reach me **arcswdev@gmail.com**
 
 - ⚡ Fun fact: I love 🎵, 🎸, 📚, and ☕️.
 

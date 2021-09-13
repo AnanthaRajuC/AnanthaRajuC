@@ -26,6 +26,14 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Present_
 
 * Responsible for integrating *Customer Centria's* flagship Marketing Campaign Product Suite **[CC Engage](https://www.customercentria.com/cctarget.html)** with several other products like [Twilio](https://www.twilio.com/), [acoustic](https://www.acoustic.com/) (formerly IBM Watson Marketing), [Alot Solutions](https://alotsolutions.com/), [Ozonetel](https://ozonetel.com/) via RESTful API's for customer engagement.
 
+* Spearheaded the off-site deployment of Omnichannel Marketing Automation tool for a client with multiple data sources. Responsible for the overall project from gathering the requirements to implementing the use cases, integrating the system with several REST end points of multiple vendors.
+
+* REST Web Services Experience - Facebook Messenger, mapp, acoustic, Ozonetel, Karix, Alot Solutions, Twilio, SendGrid.
+
+* Lead the team responsible for developing Proof-of-Concept Product and Solution Implementation for prospects as per their business use-cases.
+
+* Pre-Sales Experience of Enterprise Data Management Platform & Marketing Automation Solution across industry verticals such as BFSI, Telecom, Airlines, Retail.
+
 ---
 
 **EDUCATION**

@@ -6,7 +6,8 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arcswdev)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anantharajuc)
 
-My name is Anantha, i hold a Masters Degree in Computer Science Engineering. Currently i work as a Backend **Software Engineer** with 6 years of experience in **Marketing Technology** space. I primarily work with Java, Spring Boot based Web Applications.
+My name is Anantha, i hold a Masters Degree in Computer Science Engineering. I'm a **Java** (**Spring Boot**) developer with **6** years of professional experience working on **back-end systems** in an enterprise (**B2B2C**) environment building **Web Applications** for products in Customer Engagement domain (**Mar-Tech/Ad-Tech**).
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
 

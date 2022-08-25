@@ -25,7 +25,13 @@ My name is **Anantha**, i hold a **Masters Degree** in **Computer Science Engine
 
 _[Platform Commons](https://platformcommons.org/). Jan 2021 - Present_
 
-* Backend Engineer
+* Translate business requirements into technical needs and actions.
+
+* Compile data on a project level and provide insights into operations via Apache Superset dashboard development to relevant stakeholders to scale data informed decisions.
+
+*Train, mentor junior personnel and supervise engineering deliverables while presenting practical input for programming decisions.
+
+**Apache Superset**, **Metabase**, **MySQL**, **OpenAPI**, **Spring Boot**, **Microservices**, **RabbitMQ**
 
 _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 

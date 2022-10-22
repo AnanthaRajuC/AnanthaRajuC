@@ -5,14 +5,14 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arcswdev)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anantharajuc)
 
-My name is **Anantha**, i hold a **Masters Degree** in **Computer Science Engineering**. I'm a **Java** (**Spring Boot**) developer with **6+** years of professional experience working on **back-end systems** in an enterprise (**B2B2C**) environment building **Web Applications** for products in Customer Engagement domain (**Mar-Tech/Ad-Tech**).
+My name is **Anantha**, i hold a **Masters Degree** in **Computer Science Engineering**. I'm a **Java** (**Spring Boot**) developer with **7+** years of professional experience working on back-end systems **(Microservices, Database)** in an enterprise (**B2B2C**) and (**B2B**) environment building **Web Applications** for products in Customer Engagement (**Mar-Tech/Ad-Tech**) & **Agri Tech** domains.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
 
 - 📝 I write articles on [https://anantharajuc.github.io](https://anantharajuc.github.io)
 
-- 💬 Ask me about **Java, Spring Boot** *(Spring Data JPA, Spring Data MongoDB, Spring Web, H2 Database, Java Mail Sender, Lombok, Thymeleaf, Flyway Migration)* **, OOP, Web Applications, RESTful APIs, Database, Cloud, Git, Maven, MongoDB, MySQL, Docker**
+- 💬 Ask me about **Java, Spring Boot** *(Spring Data JPA, Spring Data MongoDB, Spring Web, H2 Database, Java Mail Sender, Lombok, Thymeleaf, Flyway Migration)* **, OOP, Web Applications, RESTful APIs, Database, Cloud, Git, Maven, MongoDB, MySQL, Docker, Apache Superset**
 
 - 📫 How to reach me **arcswdev@gmail.com**
 

@@ -155,6 +155,8 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
   <img width="" height="" src="https://github-profile-trophy.vercel.app/?username=anantharajuc&theme=flat&no-frame=true&margin-w=30&no-bg=true">
 <p/>
 
+[![@anantharajuc's Holopin board](https://holopin.me/anantharajuc)](https://holopin.io/@anantharajuc)
+
 <!--
 **AnanthaRajuC/AnanthaRajuC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

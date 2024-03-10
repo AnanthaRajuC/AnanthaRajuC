@@ -12,7 +12,7 @@ My name is **Anantha**, i hold a **Masters Degree** in **Computer Science Engine
 
 - 📝 I write articles on [https://anantharajuc.github.io](https://anantharajuc.github.io)
 
-- 💬 Ask me about **Java, Spring Boot** *(Spring Data JPA, Spring Data MongoDB, Spring Web, H2 Database, Java Mail Sender, Lombok, Thymeleaf, Flyway Migration)* **, OOP, Web Applications, RESTful APIs, Database, Cloud, Git, Maven, MongoDB, MySQL, Docker, Apache Superset**
+- 💬 Ask me about **Java, Spring Boot** *(Spring Data JPA, Spring Data MongoDB, Spring Web, H2 Database, Java Mail Sender, Lombok, Thymeleaf, Flyway Migration)*, **Data Engineering** *(MySQL, ClickHouse, dbt-core, ETL/ELT, Apache Superset, Metabase)* , **NoSQL** *(MongoDB)*, Shell Script, OOP, Web Applications, RESTful APIs, Cloud, **Git** *(GitFlow Workflow, Feature Branch Workflow)*, Maven, Docker.
 
 - 📫 How to reach me **arcswdev@gmail.com**
 

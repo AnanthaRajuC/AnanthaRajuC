@@ -131,6 +131,30 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 </p>
 <p>A Spring Boot Web Application template bootstrapped with necessary dependencies enough to start with a simple web application.</p>
 
+<p>
+  <strong>
+    <a href="https://github.com/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics">🍃 Real-Time Streaming ETL Pipeline / Streaming Analytics: Real-Time Data Insights</a>
+  </strong>
+</p>
+
+<p>
+  <a href="https://github.com/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics/network/members" rel="nofollow">
+    <img src="https://img.shields.io/github/forks/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics" style="max-width:100%;">
+  </a> 
+  <a href="https://github.com/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics/stargazers" rel="nofollow">
+    <img src="https://img.shields.io/github/stars/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics" style="max-width:100%;">
+  </a> 
+ </a>
+     <a alt="GitHub last commit">
+     <img src="https://img.shields.io/github/last-commit/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics" />
+ </a>
+ </a>
+     <a alt="Average time to resolve an issue">
+     <img src="http://isitmaintained.com/badge/resolution/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics.svg" />
+ </a>
+</p>
+<p>A simple streaming data pipeline to continuously capture the changes in a MySQL database and replicate them in near real-time into ClickHouse.</p>
+
 ---
 
 ### 📕 Blog Posts

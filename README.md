@@ -16,8 +16,6 @@ My name is **Anantha**, i hold a **Masters Degree** in **Computer Science Engine
 
 - 📫 How to reach me **arcswdev@gmail.com**
 
-- ⚡ Fun fact: I love 🎵, 🎸, 📚, and ☕️.
-
 ---
 
 **WORK**

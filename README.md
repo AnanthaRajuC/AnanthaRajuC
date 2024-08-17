@@ -42,7 +42,7 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 
 * Lead the team responsible for developing Proof-of-Concept Product and Solution Implementation for prospects as per their business use-cases.
 
-* Pre-Sales Experience of Enterprise Data Management Platform & Marketing Automation Solution across industry verticals such as BFSI, Telecom, Airlines, Retail.
+* Pre-Sales Engineering Experience of Enterprise Data Management Platform & Marketing Automation Solution across industry verticals such as BFSI, Telecom, Airlines, Retail.
 
 ---
 

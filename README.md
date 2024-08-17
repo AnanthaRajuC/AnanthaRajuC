@@ -161,7 +161,7 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 - [Creating a CI/CD Pipeline with Travis CI, GitHub and Docker Hub for Spring Boot based Web Application](https://anantharajuc.github.io/creating-a-ci-cd-pipeline-with-travis-ci-github-and-docker-hub-for-spring-boot-based-web-application/)
 - [Spring Boot Web Application Integrating Testing with JUnit, AssertJ and Mockito (BDDMockito)](https://anantharajuc.github.io/spring-boot-web-application-integrating-testing-with-junit-assertj-and-mockito-bddmockito/index.html)
 - [Spring Boot Web Application Deployment on AWS Elastic Beanstalk with AWS RDS](https://anantharajuc.github.io/spring-boot-web-application-deployment-on-aws-elastic-beanstalk-with-aws-rds/index.html)
-- [Spring Boot Application Containerization with Docker](https://anantharajuc.github.io/Spring-Boot-Docker/)
+- [Spring Boot Application Containerization with Docker and Pushing the Docker Image to DockerHub](https://anantharajuc.github.io/spring-boot-application-containerization-with-docker-and-pushing-the-docker-image-to-dockerhub/index.html)
 - [Bookshelf](https://anantharajuc.github.io/bookshelf/)
 <!-- BLOG-POST-LIST:END -->
 

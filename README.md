@@ -159,7 +159,7 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a Real-Time Data Pipeline Using Python, MySQL, Kafka, and ClickHouse](https://anantharajuc.github.io/building-a-real-time-data-pipeline-using-python-mysql-kafka-and-clickhouse/index.html)
-- [https://anantharajuc.github.io/dbt-core/index.html](https://anantharajuc.github.io/dbt-core/index.html)
+- [Unlocking Data Transformation Magic with dbt-core, ClickHouse, and Dagster](https://anantharajuc.github.io/dbt-core/index.html)
 - [Creating a CI/CD Pipeline with Travis CI, GitHub and Docker Hub for Spring Boot based Web Application](https://anantharajuc.github.io/creating-a-ci-cd-pipeline-with-travis-ci-github-and-docker-hub-for-spring-boot-based-web-application/)
 - [Spring Boot Web Application Integrating Testing with JUnit, AssertJ and Mockito (BDDMockito)](https://anantharajuc.github.io/spring-boot-web-application-integrating-testing-with-junit-assertj-and-mockito-bddmockito/index.html)
 - [Spring Boot Web Application Deployment on AWS Elastic Beanstalk with AWS RDS](https://anantharajuc.github.io/spring-boot-web-application-deployment-on-aws-elastic-beanstalk-with-aws-rds/index.html)

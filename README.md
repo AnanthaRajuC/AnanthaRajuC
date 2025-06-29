@@ -121,6 +121,8 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 <p>Voice-Enabled Semantic Crop Intelligence: Search, identify, and explore crops using images, voice, and natural language.
 </p>
 
+---
+
 <p>
   <strong>
     <a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template">🍃 Spring Boot Application Template</a>
@@ -154,6 +156,8 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 </p>
 <p>A Spring Boot Web Application template bootstrapped with necessary dependencies enough to start with a simple web application.</p>
 
+---
+
 <p>
   <strong>
     <a href="https://github.com/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics">🍃 Real-Time Streaming ETL Pipeline / Streaming Analytics: Real-Time Data Insights</a>
@@ -177,6 +181,8 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
  </a>
 </p>
 <p>A simple streaming data pipeline to continuously capture the changes in a MySQL database and replicate them in near real-time into ClickHouse.</p>
+
+---
 
 <p>
   <strong>

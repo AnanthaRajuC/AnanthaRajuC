@@ -98,6 +98,31 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 
 <p>
   <strong>
+    <a href="https://github.com/AnanthaRajuC/LLM-Vision-Capabilities">LLM-Vision-Capabilities</a>
+  </strong>
+</p>
+
+<p>
+  <a href="https://github.com/AnanthaRajuC/LLM-Vision-Capabilities/network/members" rel="nofollow">
+    <img src="https://img.shields.io/github/forks/AnanthaRajuC/LLM-Vision-Capabilities" style="max-width:100%;">
+  </a> 
+  <a href="https://github.com/AnanthaRajuC/LLM-Vision-Capabilities/stargazers" rel="nofollow">
+    <img src="https://img.shields.io/github/stars/AnanthaRajuC/LLM-Vision-Capabilities" style="max-width:100%;">
+  </a> 
+ </a>
+     <a alt="GitHub last commit">
+     <img src="https://img.shields.io/github/last-commit/AnanthaRajuC/LLM-Vision-Capabilities" />
+ </a>
+ </a>
+     <a alt="Average time to resolve an issue">
+     <img src="http://isitmaintained.com/badge/resolution/AnanthaRajuC/LLM-Vision-Capabilities.svg" />
+ </a>
+</p>
+<p>Voice-Enabled Semantic Crop Intelligence: Search, identify, and explore crops using images, voice, and natural language.
+</p>
+
+<p>
+  <strong>
     <a href="https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template">🍃 Spring Boot Application Template</a>
   </strong>
 </p>

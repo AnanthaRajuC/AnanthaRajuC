@@ -153,6 +153,30 @@ _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 </p>
 <p>A simple streaming data pipeline to continuously capture the changes in a MySQL database and replicate them in near real-time into ClickHouse.</p>
 
+<p>
+  <strong>
+    <a href="https://github.com/AnanthaRajuC/SQL2API">SQL2API</a>
+  </strong>
+</p>
+
+<p>
+  <a href="https://github.com/AnanthaRajuC/SQL2API/network/members" rel="nofollow">
+    <img src="https://img.shields.io/github/forks/AnanthaRajuC/SQL2API" style="max-width:100%;">
+  </a> 
+  <a href="https://github.com/AnanthaRajuC/SQL2API/stargazers" rel="nofollow">
+    <img src="https://img.shields.io/github/stars/AnanthaRajuC/SQL2API" style="max-width:100%;">
+  </a> 
+ </a>
+     <a alt="GitHub last commit">
+     <img src="https://img.shields.io/github/last-commit/AnanthaRajuC/SQL2API" />
+ </a>
+ </a>
+     <a alt="Average time to resolve an issue">
+     <img src="http://isitmaintained.com/badge/resolution/AnanthaRajuC/SQL2API.svg" />
+ </a>
+</p>
+<p>A middleware solution that bridges the gap between SQL databases and REST APIs. The system accepts SQL queries through HTTP endpoints and executes them against configured database connections, returning results in multiple formats including JSON, XML, YAML, CSV, TSV, and XLSX</p>
+
 ---
 
 ### 📕 Blog Posts

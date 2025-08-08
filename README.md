@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantharajuc)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anantharajuc)
 
-My name is **Anantha**, i hold a **Masters Degree** in **Computer Science Engineering**. I'm a **Data Engineering** & **Backend (Java)** Developer with **8.10 years** of professional experience working on back-end systems **(Microservices, Database)** in enterprise **(B2B2C)** and **(B2B)** environment building Web Applications, Data Pipeline's & BI for products in **Agri Tech** & **Customer Engagement (Mar-Tech/Ad-Tech)** domain.
+Technical Project Manager - Data Engineering & Backend (Java) Development: Overall 9+ yrs experience with Microservices, Databases, and Production Environment Management in enterprise (B2B2C) & (B2B) settings, building Applications, Data Pipelines, and BI for products in Agri-Tech & Customer Engagement (Mar-Tech/Ad-Tech) domains.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)

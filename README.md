@@ -20,6 +20,23 @@ Technical Project Manager - Data Engineering & Backend (Java) Development: Overa
 
 **WORK**
 
+Rythu Sadhikara Samastha  
+Project Manager - Backend Developer (ICT), *Product: Urvi*  03/2024 – present | Bangalore, India (Remote)  
+
+##### Technical Contributions:
+- Managed **production environments** for internal government systems supporting agriculture monitoring at scale.  
+- Led **API development** and **ETL automation** (Shell scripts), ensuring scalable data flow for field operations.  
+- Introduced and deployed **OLAP solution (ClickHouse)** to improve reporting speed and reduce ETL load.  
+- Designed and maintained **Apache Superset dashboards** used by **District Project Managers (DPMs)** for data-driven decision-making and field supervision.  
+
+##### Technical Project Management:
+- **Delivery Leadership:** Coordinated remote cross-functional teams to deliver key features, including a **large-scale offline-first Android app** used by field staff to track farming activities of 9M+ farmers.  
+- **Sprint & Release Management:** Oversaw backlog prioritization, sprint planning, QA cycles, and production releases in an Agile setup.  
+- **Stakeholder Collaboration:** Regularly engaged with **government officials across departments**, aligning delivery goals and ensuring adoption of digital tools.  
+- **Requirement Translation:** Translated stakeholder inputs into actionable technical requirements across backend, Android, and DBMS layers, ensuring seamless execution across teams.
+
+---
+
 _[Platform Commons](https://platformcommons.org/). Jan 2021 - Present_
 
 Led Data Engineering for Urvi (Rythu Sadhikara Samstha), building ELT pipelines and optimizing MySQL queries for 2.5M+ users. Ensured data integrity through cleansing, validation, and automation. Owned end-to-end Apache Superset setup — deployed via Docker, built dashboards, implemented RBAC and row-level security. Drove data-driven decisions by collaborating directly with clients and stakeholders.

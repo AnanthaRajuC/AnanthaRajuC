@@ -20,8 +20,9 @@ Technical Project Manager - Data Engineering & Backend (Java) Development: Overa
 
 **WORK**
 
-Rythu Sadhikara Samastha  
-Project Manager - Backend Developer (ICT), *Product: Urvi*  03/2024 – present | Bangalore, India (Remote)  
+_[Rythu Sadhikara Samastha](https://apcnf.in/). Mar 2024 - Present_ | Bangalore, India (Remote)  
+
+Project Manager - Backend Developer (ICT), *Product: Urvi*  
 
 ##### Technical Contributions:
 - Managed **production environments** for internal government systems supporting agriculture monitoring at scale.  

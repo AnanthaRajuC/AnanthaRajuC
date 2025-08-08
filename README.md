@@ -33,7 +33,7 @@ Project Manager - Backend Developer (ICT), *Product: Urvi*
 ##### Technical Project Management:
 - **Delivery Leadership:** Coordinated remote cross-functional teams to deliver key features, including a **large-scale offline-first Android app** used by field staff to track farming activities of 9M+ farmers.  
 - **Sprint & Release Management:** Oversaw backlog prioritization, sprint planning, QA cycles, and production releases in an Agile setup.  
-- **Stakeholder Collaboration:** Regularly engaged with **government officials across departments**, aligning delivery goals and ensuring adoption of digital tools.  
+- **Stakeholder Collaboration:** Regularly engaged with client, aligning delivery goals and ensuring adoption of digital tools.  
 - **Requirement Translation:** Translated stakeholder inputs into actionable technical requirements across backend, Android, and DBMS layers, ensuring seamless execution across teams.
 
 ---

@@ -22,13 +22,7 @@ Technical Project Manager - Data Engineering & Backend (Java) Development: Overa
 
 _[Platform Commons](https://platformcommons.org/). Jan 2021 - Present_
 
-* Translate business requirements into technical needs and actions.
-
-* Compile data on a project level and provide insights into operations via Apache Superset dashboard development to relevant stakeholders to scale data informed decisions.
-
-* Train, mentor junior personnel and supervise engineering deliverables while presenting practical input for programming decisions.
-
-**Apache Superset**, **Metabase**, **MySQL**, **OpenAPI**, **Spring Boot**, **Microservices**, **RabbitMQ**  
+Led Data Engineering for Urvi (Rythu Sadhikara Samstha), building ELT pipelines and optimizing MySQL queries for 2.5M+ users. Ensured data integrity through cleansing, validation, and automation. Owned end-to-end Apache Superset setup — deployed via Docker, built dashboards, implemented RBAC and row-level security. Drove data-driven decisions by collaborating directly with clients and stakeholders.
 
 ---
 

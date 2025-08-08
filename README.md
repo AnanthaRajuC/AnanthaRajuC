@@ -28,15 +28,14 @@ Led Data Engineering for Urvi (Rythu Sadhikara Samstha), building ELT pipelines 
 
 _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 
-* Responsible for integrating *Customer Centria's* flagship Marketing Campaign Product Suite **[CC Engage](https://www.customercentria.com/cctarget.html)** with several other products like [Twilio](https://www.twilio.com/), [acoustic](https://www.acoustic.com/) (formerly IBM Watson Marketing), [Alot Solutions](https://alotsolutions.com/), [Ozonetel](https://ozonetel.com/) via RESTful API's for customer engagement.
+**Software Engineer**,  *CC Engage Platform, (Data & Campaign Management)*  2016 – 01/2022 | Bangalore, India  
+Integrated enterprise platforms like **Silverpop, IBM Watson Campaign**, and **Acoustic** via **REST APIs**. Enabled multi-channel marketing (Email, SMS, IVR, WhatsApp, Social) by integrating vendors like **Twilio, Ozonetel, Facebook**, and **SendGrid** via REST APIs. Migrated mobile push from **GCM** to **FCM** and delivered custom client features.
 
-* Spearheaded the off-site deployment of Omnichannel Marketing Automation tool for a client with multiple data sources. Responsible for the overall project from gathering the requirements to implementing the use cases, integrating the system with several REST end points of multiple vendors.
+**Client Engagement**,  *Delta Corp Limited [Deltin]*  *(Deltin is a listed company in gaming and hospitality industry)*  2017 – 2019 | Bangalore, India  
+Led deployment and **AWS** migration of a marketing automation platform for Deltin Group. **Managed end-to-end project delivery**, integrated **REST APIs** with email/SMS gateways, and automated campaign processing. **Oversaw cross-functional teams and stakeholder reporting**.
 
-* REST Web Services Experience - Facebook Messenger, mapp, acoustic, Ozonetel, Karix, Alot Solutions, Twilio, SendGrid.
-
-* Lead the team responsible for developing Proof-of-Concept Product and Solution Implementation for prospects as per their business use-cases.
-
-* Pre-Sales Engineering Experience of Enterprise Data Management Platform & Marketing Automation Solution across industry verticals such as BFSI, Telecom, Airlines, Retail.
+**Pre-Sales Engineering**,  *CC Engage Platform, (Data & Campaign Management)*  10/2015 – 2019 | Bangalore, India  
+Pre-Sales Engineer with experience in Enterprise Data Management and Marketing Automation across **BFSI, Retail, Telecom**, and **Airlines**. Skilled in solution design (CC Engage), use-case identification, risk mitigation, and leading PoC implementations with cross-functional teams.
 
 ---
 

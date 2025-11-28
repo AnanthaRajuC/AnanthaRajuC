@@ -18,6 +18,14 @@ Technical Project Manager - Data Engineering & Backend (Java) Development: Overa
 
 ---
 
+**EDUCATION**
+
+* **MASTERS OF TECHNOLOGY (M. Tech), COMPUTER SCIENCE ENGINEERING** - *Visvesvaraya Technological University (VTU)*
+
+* **BACHELOR OF ENGINEERING (BE), COMPUTER SCIENCE ENGINEERING** - *Visvesvaraya Technological University (VTU)*
+
+---
+
 **WORK**
 
 _[Rythu Sadhikara Samastha](https://apcnf.in/). Mar 2024 - Present_ | Bangalore, India (Remote)  
@@ -54,14 +62,6 @@ Led deployment and **AWS** migration of a marketing automation platform for Delt
 
 **Pre-Sales Engineering**,  *CC Engage Platform, (Data & Campaign Management)*  10/2015 – 2019 | Bangalore, India  
 Pre-Sales Engineer with experience in Enterprise Data Management and Marketing Automation across **BFSI, Retail, Telecom**, and **Airlines**. Skilled in solution design (CC Engage), use-case identification, risk mitigation, and leading PoC implementations with cross-functional teams.
-
----
-
-**EDUCATION**
-
-* **MASTERS OF TECHNOLOGY (M. Tech), COMPUTER SCIENCE ENGINEERING** - *Visvesvaraya Technological University (VTU)*
-
-* **BACHELOR OF ENGINEERING (BE), COMPUTER SCIENCE ENGINEERING** - *Visvesvaraya Technological University (VTU)*
 
 ---
 

@@ -7,12 +7,7 @@
 
 Technical Project Manager - Data Engineering & Backend (Java) Development: Overall 10 yrs experience with Microservices, Databases, and Production Environment Management in enterprise (B2B2C) & (B2B) settings, building Applications, Data Pipelines, and BI for products in Agri-Tech & Customer Engagement (Mar-Tech/Ad-Tech) domains.
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/AnanthaRajuC](https://github.com/AnanthaRajuC)
-
 - 📝 I write articles on [https://anantharajuc.github.io](https://anantharajuc.github.io)
-
-- 💬 Ask me about **Java, Spring Boot**, **Data Engineering** *(MySQL, ClickHouse, dbt-core, ETL/ELT, Apache Superset, Metabase)* , **NoSQL** *(MongoDB)*, Shell Script, OOP, Web Applications, RESTful APIs, Cloud, **Git** *(GitFlow Workflow, Feature Branch Workflow)*, Maven, Docker.
 
 - 📫 How to reach me **arcswdev@gmail.com**
 

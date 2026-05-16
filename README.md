@@ -82,5 +82,3 @@ Pre-Sales Engineer with experience in Enterprise Data Management and Marketing A
 - [Spring Boot Application Containerization with Docker and Pushing the Docker Image to DockerHub](https://anantharajuc.github.io/spring-boot-application-containerization-with-docker-and-pushing-the-docker-image-to-dockerhub/index.html)
 - [Bookshelf](https://anantharajuc.github.io/bookshelf/)
 <!-- BLOG-POST-LIST:END -->
-
----

@@ -48,13 +48,13 @@ Led Data Engineering for Urvi (Rythu Sadhikara Samstha), building ELT pipelines 
 
 _[Customer Centria](https://www.customercentria.com/). Oct 2015 - Jan 2021_
 
-**Software Engineer**,  *CC Engage Platform, (Data & Campaign Management)*  2016 – 01/2022 | Bangalore, India  
+**Software Engineer**,  *CC Engage Platform, (Data & Campaign Management)*  | Bangalore, India  
 Integrated enterprise platforms like **Silverpop, IBM Watson Campaign**, and **Acoustic** via **REST APIs**. Enabled multi-channel marketing (Email, SMS, IVR, WhatsApp, Social) by integrating vendors like **Twilio, Ozonetel, Facebook**, and **SendGrid** via REST APIs. Migrated mobile push from **GCM** to **FCM** and delivered custom client features.
 
-**Client Engagement**,  *Delta Corp Limited [Deltin]*  *(Deltin is a listed company in gaming and hospitality industry)*  2017 – 2019 | Bangalore, India  
+**Client Engagement**,  *Delta Corp Limited [Deltin]*  *(Deltin is a listed company in gaming and hospitality industry)*  | Bangalore, India  
 Led deployment and **AWS** migration of a marketing automation platform for Deltin Group. **Managed end-to-end project delivery**, integrated **REST APIs** with email/SMS gateways, and automated campaign processing. **Oversaw cross-functional teams and stakeholder reporting**.
 
-**Pre-Sales Engineering**,  *CC Engage Platform, (Data & Campaign Management)*  10/2015 – 2019 | Bangalore, India  
+**Pre-Sales Engineering**,  *CC Engage Platform, (Data & Campaign Management)*  | Bangalore, India  
 Pre-Sales Engineer with experience in Enterprise Data Management and Marketing Automation across **BFSI, Retail, Telecom**, and **Airlines**. Skilled in solution design (CC Engage), use-case identification, risk mitigation, and leading PoC implementations with cross-functional teams.
 
 ---

@@ -1,15 +1,24 @@
-### Hey! 👋
+### Hey, I'm Anantha 👋
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anantharajuc)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anantharajuc)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anantharajuc)
 
-Technical Project Manager - Data Engineering & Backend (Java) Development: Overall 10 yrs experience with Microservices, Databases, and Production Environment Management in enterprise (B2B2C) & (B2B) settings, building Applications, Data Pipelines, and BI for products in Agri-Tech & Customer Engagement (Mar-Tech/Ad-Tech) domains.
+**Technical Project Manager · Data Engineering & Backend (Java)** — 10 years building applications, data pipelines and BI in Agri-Tech and Mar-Tech, and running the production environments they live in.
+ 
+Right now I'm running the data and backend platform behind **Urvi**, used by field staff to track the farming activities of **9M+ farmers** in Andhra Pradesh.
 
-- 📝 I write articles on [https://anantharajuc.github.io](https://anantharajuc.github.io)
+---
 
-- 📫 How to reach me **arcswdev@gmail.com**
-
+### Currently building
+ 
+| Project | What it is | Stack |
+|---|---|---|
+| [QueryAPIGate](https://github.com/AnanthaRajuC/QueryAPIGate) | A lightweight, self-hosted SQL-to-API gateway with database abstraction, governed saved queries, scoped API access, parameter validation, streaming exports, connection pooling, caching, observability, OpenAPI generation, an administrative UI, and multi-database/JDBC support.| Python |
+| [Streaming-ETL-Pipeline-for-Realtime-Analytics](https://github.com/AnanthaRajuC/Streaming-ETL-Pipeline-for-Realtime-Analytics) | Change-data-capture from MySQL into ClickHouse in near real time | MySQL · Kafka · ClickHouse |
+| [LLM-Vision-Capabilities](https://github.com/AnanthaRajuC/LLM-Vision-Capabilities) | Search and identify crops by image, voice or natural language | Python · LLMs |
+| [Spring-Boot-Application-Template](https://github.com/AnanthaRajuC/Spring-Boot-Application-Template) | Production-ready Spring Boot starter — 160+ ⭐, 220+ forks | Java · Spring Boot · JWT · Docker |
+ 
 ---
 
 **EDUCATION**
@@ -22,21 +31,24 @@ Technical Project Manager - Data Engineering & Backend (Java) Development: Overa
 
 **WORK**
 
-_[Rythu Sadhikara Samastha](https://apcnf.in/). Mar 2024 - Present_ | Bangalore, India (Remote)  
-
-Project Manager - Backend Developer (ICT), *Product: Urvi*  
-
-##### Technical Contributions:
-- Managed **production environments** for internal government systems supporting agriculture monitoring at scale.  
-- Led **API development** and **ETL automation** (Shell scripts), ensuring scalable data flow for field operations.  
-- Introduced and deployed **OLAP solution (ClickHouse)** to improve reporting speed and reduce ETL load.  
-- Designed and maintained **Apache Superset dashboards** used by **District Project Managers (DPMs)** for data-driven decision-making and field supervision.  
-
-##### Technical Project Management:
-- **Delivery Leadership:** Coordinated remote cross-functional teams to deliver key features, including a **large-scale offline-first Android app** used by field staff to track farming activities of 9M+ farmers.  
-- **Sprint & Release Management:** Oversaw backlog prioritization, sprint planning, QA cycles, and production releases in an Agile setup.  
-- **Stakeholder Collaboration:** Regularly engaged with client, aligning delivery goals and ensuring adoption of digital tools.  
-- **Requirement Translation:** Translated stakeholder inputs into actionable technical requirements across backend, Android, and DBMS layers, ensuring seamless execution across teams.
+**[Rythu Sadhikara Samstha](https://apcnf.in/)** — Technical Project Manager, Backend Developer (ICT) · *Mar 2024 – Present* · Remote
+Product: **Urvi**
+ 
+- Run **production environments** for government agriculture-monitoring systems.
+- Lead **API development** and **ETL automation** for field-operations data.
+- Introduced **ClickHouse** as the OLAP layer, speeding up reporting and cutting ETL load.
+- Built and maintain **Apache Superset dashboards** used by District Project Managers for field supervision.
+- Deliver features with remote cross-functional teams, including an **offline-first Android app** for 9M+ farmers — backlog, sprints, QA and releases.
+- Translate stakeholder needs into requirements across backend, Android and database layers.
+**[Platform Commons](https://platformcommons.org/)** — Data Engineering Lead · *Jan 2021 – Present*
+ 
+- Led data engineering for Urvi: ELT pipelines and MySQL query optimization for 2.5M+ users.
+- Owned the Apache Superset setup end to end — Docker deployment, dashboards, RBAC and row-level security.
+**[Customer Centria](https://www.customercentria.com/)** · *Oct 2015 – Jan 2021* · Bangalore
+ 
+- **Software Engineer, CC Engage Platform** — Integrated Silverpop, IBM Watson Campaign and Acoustic, plus Twilio, Ozonetel, Facebook and SendGrid for multi-channel marketing (email, SMS, IVR, WhatsApp, social). Migrated mobile push from GCM to FCM.
+- **Client Engagement, Delta Corp (Deltin)** — Led delivery and AWS migration of a marketing-automation platform for a listed gaming and hospitality company.
+- **Pre-Sales Engineering** — Solution design and PoCs for enterprise data and marketing automation across BFSI, retail, telecom and airlines.
 
 ---
 
